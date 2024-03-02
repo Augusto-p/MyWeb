@@ -1,0 +1,267 @@
+{
+    "Repos": [
+        {
+            "ID": 716314972,
+            "Value": {
+                "Owner": {
+                    "Avatar": "https://avatars.githubusercontent.com/u/69015395?v=4",
+                    "URL": "https://github.com/Augusto-p",
+                    "URL_API": "https://api.github.com/users/Augusto-p",
+                    "Name": "Null",
+                    "At": "Augusto-p"
+                },
+                "Update_Date": "2023-11-08T22:02:26Z",
+                "Name": "BinarySeach",
+                "Description": null,
+                "Languages": {
+                    "Python": 43.757259001161444,
+                    "Pascal": 25.46457607433217,
+                    "JavaScript": 22.038327526132406,
+                    "HTML": 8.739837398373984
+                }
+            }
+        },
+        {
+            "ID": 405798895,
+            "Value": {
+                "Owner": {
+                    "Avatar": "https://avatars.githubusercontent.com/u/69015395?v=4",
+                    "URL": "https://github.com/Augusto-p",
+                    "URL_API": "https://api.github.com/users/Augusto-p",
+                    "Name": "Null",
+                    "At": "Augusto-p"
+                },
+                "Update_Date": "2021-11-30T01:30:39Z",
+                "Name": "Carwall",
+                "Description": null,
+                "Languages": {
+                    "JavaScript": 39.550856952297934,
+                    "SCSS": 22.408495709144237,
+                    "Less": 20.36442777701396,
+                    "CSS": 13.647173768688697,
+                    "HTML": 4.029045792855172
+                }
+            }
+        },
+        {
+            "ID": 424397451,
+            "Value": {
+                "Owner": {
+                    "Avatar": "https://avatars.githubusercontent.com/u/69015395?v=4",
+                    "URL": "https://github.com/Augusto-p",
+                    "URL_API": "https://api.github.com/users/Augusto-p",
+                    "Name": "Null",
+                    "At": "Augusto-p"
+                },
+                "Update_Date": "2021-11-27T22:12:18Z",
+                "Name": "CryptoManager",
+                "Description": null,
+                "Languages": {
+                    "HTML": 99.78696389801536,
+                    "CSS": 0.1595633532108405,
+                    "Java": 0.05100823402994737,
+                    "JavaScript": 0.002464514743860455
+                }
+            }
+        },
+        {
+            "ID": 433982808,
+            "Value": {
+                "Owner": {
+                    "Avatar": "https://avatars.githubusercontent.com/u/69015395?v=4",
+                    "URL": "https://github.com/Augusto-p",
+                    "URL_API": "https://api.github.com/users/Augusto-p",
+                    "Name": "Null",
+                    "At": "Augusto-p"
+                },
+                "Update_Date": "2021-12-01T21:14:37Z",
+                "Name": "DDM",
+                "Description": null,
+                "Languages": {
+                    "Python": 99.13491931458992,
+                    "Shell": 0.8650806854100815
+                }
+            }
+        },
+        {
+            "ID": 723755799,
+            "Value": {
+                "Owner": {
+                    "Avatar": "https://avatars.githubusercontent.com/u/69015395?v=4",
+                    "URL": "https://github.com/Augusto-p",
+                    "URL_API": "https://api.github.com/users/Augusto-p",
+                    "Name": "Null",
+                    "At": "Augusto-p"
+                },
+                "Update_Date": "2023-11-26T17:08:07Z",
+                "Name": "F1-Chrome-Extencion",
+                "Description": null,
+                "Languages": {}
+            }
+        },
+        {
+            "ID": 686443106,
+            "Value": {
+                "Owner": {
+                    "Avatar": "https://avatars.githubusercontent.com/u/69015395?v=4",
+                    "URL": "https://github.com/Augusto-p",
+                    "URL_API": "https://api.github.com/users/Augusto-p",
+                    "Name": "Null",
+                    "At": "Augusto-p"
+                },
+                "Update_Date": "2023-09-02T20:29:42Z",
+                "Name": "FileManager",
+                "Description": null,
+                "Languages": {
+                    "Go": 100.0
+                }
+            }
+        },
+        {
+            "ID": 498129095,
+            "Value": {
+                "Owner": {
+                    "Avatar": "https://avatars.githubusercontent.com/u/69015395?v=4",
+                    "URL": "https://github.com/Augusto-p",
+                    "URL_API": "https://api.github.com/users/Augusto-p",
+                    "Name": "Null",
+                    "At": "Augusto-p"
+                },
+                "Update_Date": "2022-05-30T23:55:59Z",
+                "Name": "Gitconfig",
+                "Description": null,
+                "Languages": {
+                    "Shell": 70.31835205992509,
+                    "Batchfile": 29.681647940074907
+                }
+            }
+        },
+        {
+            "ID": 537282976,
+            "Value": {
+                "Owner": {
+                    "Avatar": "https://avatars.githubusercontent.com/u/69015395?v=4",
+                    "URL": "https://github.com/Augusto-p",
+                    "URL_API": "https://api.github.com/users/Augusto-p",
+                    "Name": "Null",
+                    "At": "Augusto-p"
+                },
+                "Update_Date": "2022-09-16T15:46:42Z",
+                "Name": "GX",
+                "Description": null,
+                "Languages": {
+                    "Python": 100.0
+                }
+            }
+        },
+        {
+            "ID": 643389228,
+            "Value": {
+                "Owner": {
+                    "Avatar": "https://avatars.githubusercontent.com/u/69015395?v=4",
+                    "URL": "https://github.com/Augusto-p",
+                    "URL_API": "https://api.github.com/users/Augusto-p",
+                    "Name": "Null",
+                    "At": "Augusto-p"
+                },
+                "Update_Date": "2023-05-21T02:11:30Z",
+                "Name": "KennyBot",
+                "Description": null,
+                "Languages": {
+                    "Python": 100.0
+                }
+            }
+        },
+        {
+            "ID": 436048759,
+            "Value": {
+                "Owner": {
+                    "Avatar": "https://avatars.githubusercontent.com/u/69015395?v=4",
+                    "URL": "https://github.com/Augusto-p",
+                    "URL_API": "https://api.github.com/users/Augusto-p",
+                    "Name": "Null",
+                    "At": "Augusto-p"
+                },
+                "Update_Date": "2021-12-07T22:54:49Z",
+                "Name": "Magic-wallpaper",
+                "Description": null,
+                "Languages": {
+                    "Python": 78.43803056027164,
+                    "Shell": 21.561969439728355
+                }
+            }
+        },
+        {
+            "ID": 764264772,
+            "Value": {
+                "Owner": {
+                    "Avatar": "https://avatars.githubusercontent.com/u/69015395?v=4",
+                    "URL": "https://github.com/Augusto-p",
+                    "URL_API": "https://api.github.com/users/Augusto-p",
+                    "Name": "Null",
+                    "At": "Augusto-p"
+                },
+                "Update_Date": "2024-02-27T20:30:17Z",
+                "Name": "MyWeb",
+                "Description": null,
+                "Languages": {}
+            }
+        },
+        {
+            "ID": 485496513,
+            "Value": {
+                "Owner": {
+                    "Avatar": "https://avatars.githubusercontent.com/u/69015395?v=4",
+                    "URL": "https://github.com/Augusto-p",
+                    "URL_API": "https://api.github.com/users/Augusto-p",
+                    "Name": "Null",
+                    "At": "Augusto-p"
+                },
+                "Update_Date": "2022-04-25T18:53:38Z",
+                "Name": "test",
+                "Description": null,
+                "Languages": {}
+            }
+        },
+        {
+            "ID": 424392998,
+            "Value": {
+                "Owner": {
+                    "Avatar": "https://avatars.githubusercontent.com/u/69015395?v=4",
+                    "URL": "https://github.com/Augusto-p",
+                    "URL_API": "https://api.github.com/users/Augusto-p",
+                    "Name": "Null",
+                    "At": "Augusto-p"
+                },
+                "Update_Date": "2022-03-22T22:32:24Z",
+                "Name": "Tiangis",
+                "Description": null,
+                "Languages": {
+                    "Java": 100.0
+                }
+            }
+        },
+        {
+            "ID": 494645740,
+            "Value": {
+                "Owner": {
+                    "Avatar": "https://avatars.githubusercontent.com/u/69015395?v=4",
+                    "URL": "https://github.com/Augusto-p",
+                    "URL_API": "https://api.github.com/users/Augusto-p",
+                    "Name": "Null",
+                    "At": "Augusto-p"
+                },
+                "Update_Date": "2023-02-09T09:03:42Z",
+                "Name": "XSC-Coral",
+                "Description": null,
+                "Languages": {
+                    "PHP": 60.66487047795459,
+                    "JavaScript": 17.221836322303613,
+                    "CSS": 15.586322303612024,
+                    "Shell": 5.656415761555948,
+                    "HTML": 0.8705551345738262
+                }
+            }
+        }
+    ]
+}

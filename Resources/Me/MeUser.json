@@ -2,8 +2,9 @@
     "WebTitle": "@Null | Augusto Picardo",
     "Name": "Augusto Picardo",
     "At": "@None",
-    "PostsFile": null,
-    "ArticlesFile": null,
+    "PostsFile": "https://raw.githubusercontent.com/Augusto-p/MyWeb/Resources/Resources/Me/PostsUser.json",
+    "ArticlesFile": "https://raw.githubusercontent.com/Augusto-p/MyWeb/Resources/Resources/Me/ArticlesUser.json",
+    "ReposFile": "https://raw.githubusercontent.com/Augusto-p/MyWeb/Resources/Resources/Me/ReposUser.json",
     "Social": [
         {
             "Name": "@Augusto-P",
