@@ -3,11 +3,10 @@
     "FavIcon": "",
     "FavIconSvg": "https://raw.githubusercontent.com/Augusto-p/MyWeb/Resources/Resources/Me/FavIcon.svg",
     "Name": "Augusto Picardo",
-    "At": "@None",
+    "At": "@Null",
     "PostsFile": "https://raw.githubusercontent.com/Augusto-p/MyWeb/Resources/Resources/Me/PostsUser.json",
     "ArticlesFile": "https://raw.githubusercontent.com/Augusto-p/MyWeb/Resources/Resources/Me/ArticlesUser.json",
     "ReposFile": "https://raw.githubusercontent.com/Augusto-p/MyWeb/Resources/Resources/Me/ReposUser.json",
-
     "Social": [
         {
             "Name": "@Augusto-P",
